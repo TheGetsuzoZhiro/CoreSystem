@@ -56,8 +56,8 @@ Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan
 ```›› Watchlist : Memantau Aktivitas Target Secara Real-Time Dan Menampilkan Countdown Waktu Serangan Aktif.```
 
 
-```🔎 2. Source Intelligence  
-Modul Pencarian Informasi Dan Investigasi Berbasis OSINT (Open Source Intelligence):```
+```🔎 2. Source Intelligence```
+```Modul Pencarian Informasi Dan Investigasi Berbasis OSINT (Open Source Intelligence):```
  
 ```›› Osint : Melacak Data Pribadi Dari Nomor Telepon, Seperti NIK, Nama, Lokasi, Dan Data SIM Yang Bocor.```
 
@@ -70,8 +70,8 @@ Modul Pencarian Informasi Dan Investigasi Berbasis OSINT (Open Source Intelligen
 ```›› Whoisx : Cari Data Lewat Email Dan Nama, Termasuk Kebocoran Database.```
 
 
-```🚀 3. Core Menu Tools  
-Fitur Utama Bot Untuk AI, Media, Dan Utilitas:```
+```🚀 3. Core Menu Tools```
+```Fitur Utama Bot Untuk AI, Media, Dan Utilitas:```
 
 ```›› AI : Mesin AI Untuk Menjawab Pertanyaan, Brainstorming, Dan Automasi Teks.```
 
@@ -111,11 +111,11 @@ Fitur Utama Bot Untuk AI, Media, Dan Utilitas:```
 
 ```›› CS : Cek Status Pengguna Premium.```
 
-```📋 4. Check ID  
-›› Check ID : Tampilkan ID Telegram Untuk Akses Premium Dan Manajemen.```
+```📋 4. Check ID```
+```›› Check ID : Tampilkan ID Telegram Untuk Akses Premium Dan Manajemen.```
 
-```🌍 5. List Premium  
-›› List Prem : Daftar ID Pengguna Premium Resmi.```
+```🌍 5. List Premium```
+```›› List Prem : Daftar ID Pengguna Premium Resmi.```
 
 Gunakan Fitur Ini Dengan Bijak. Sistem Ini Alat, Bukan Senjata.
 
