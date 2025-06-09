@@ -23,7 +23,7 @@
 
 <!-- WhatsApp Links -->
 <p>
-  <a href="https://whatsapp.com/channel/0029Vag9VSI2ZjCocqa2lB1y">
+  <a href="https://whatsapp.com/channel/0029Vajupt79mrGiw435yr2A">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen" alt="WA Channel"/>
   </a>
   <a href="https://wa.me/6281991410940">
