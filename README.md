@@ -48,7 +48,8 @@ Built Not Just To Assist, But To Dominate The Flow Of Data.
 ### ⚙️ Core Capabilities Overview
 Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.
 
-**⚔️ 1. Xploiter Suite**\n
+**⚔️ 1. Xploiter Suite**
+
 ```Fitur Serangan Tingkat Lanjut Untuk Menguji Kerentanan Dan Respon Target:```
 
 ```›› Xploit : Meluncurkan Bug WhatsApp Yang Menyebabkan Delay Pada Target, Ideal Untuk Stress Test Dan Penetrasi Ringan.```
@@ -56,7 +57,8 @@ Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan
 ```›› Watchlist : Memantau Aktivitas Target Secara Real-Time Dan Menampilkan Countdown Waktu Serangan Aktif.```
 
 
-🔎 2. Source Intelligence
+**🔎 2. Source Intelligence**
+
 ```Modul Pencarian Informasi Dan Investigasi Berbasis OSINT (Open Source Intelligence):```
  
 ```›› Osint : Melacak Data Pribadi Dari Nomor Telepon, Seperti NIK, Nama, Lokasi, Dan Data SIM Yang Bocor.```
@@ -70,7 +72,8 @@ Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan
 ```›› Whoisx : Cari Data Lewat Email Dan Nama, Termasuk Kebocoran Database.```
 
 
-🚀 3. Core Menu Tools
+**🚀 3. Core Menu Tools**
+
 ```Fitur Utama Bot Untuk AI, Media, Dan Utilitas:```
 
 ```›› AI : Mesin AI Untuk Menjawab Pertanyaan, Brainstorming, Dan Automasi Teks.```
@@ -111,10 +114,12 @@ Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan
 
 ```›› CS : Cek Status Pengguna Premium.```
 
-📋 4. Check ID
+**📋 4. Check ID**
+
 ```›› Check ID : Tampilkan ID Telegram Untuk Akses Premium Dan Manajemen.```
 
-🌍 5. List Premium
+**🌍 5. List Premium**
+
 ```›› List Prem : Daftar ID Pengguna Premium Resmi.```
 
 Gunakan Fitur Ini Dengan Bijak. Sistem Ini Alat, Bukan Senjata.
