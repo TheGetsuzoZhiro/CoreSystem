@@ -35,8 +35,6 @@
 
 ### [GetsuzoBot](https://t.me/GetsuzoBot)
 
-Bot Telegram [GetsuzoBot](https://t.me/GetsuzoBot)
-
 GetsuZoBot Adalah Ekosistem Modular Yang Dirancang Untuk Otomatisasi, Investigasi Digital, Dan Kendali Penuh Atas Data Dan Media.
 
 Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan Kamu:
@@ -50,10 +48,10 @@ Built Not Just To Assist, But To Dominate The Flow Of Data.
 ### ⚙️ Core Capabilities Overview
 Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.
 
-```⚔️ 1. Xploiter Suite  
-Fitur Serangan Tingkat Lanjut Untuk Menguji Kerentanan Dan Respon Target:
+```⚔️ 1. Xploiter Suite```
+```Fitur Serangan Tingkat Lanjut Untuk Menguji Kerentanan Dan Respon Target:```
 
-›› Xploit : Meluncurkan Bug WhatsApp Yang Menyebabkan Delay Pada Target, Ideal Untuk Stress Test Dan Penetrasi Ringan.
+```›› Xploit : Meluncurkan Bug WhatsApp Yang Menyebabkan Delay Pada Target, Ideal Untuk Stress Test Dan Penetrasi Ringan.```
 
 ›› Watchlist : Memantau Aktivitas Target Secara Real-Time Dan Menampilkan Countdown Waktu Serangan Aktif.
 
