@@ -33,7 +33,7 @@
 
 </div>
 
-### GetsuzoBot
+### [GetsuzoBot](https://t.me/GetsuzoBot)
 
 Bot Telegram [GetsuzoBot](https://t.me/GetsuzoBot)
 
@@ -41,6 +41,7 @@ GetsuZoBot Adalah Ekosistem Modular Yang Dirancang Untuk Otomatisasi, Investigas
 
 Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan Kamu:
 ```› Integrasi Eksploitasi Dan Intelijen```
+
 ```› Fokus Pada Efektivitas Dan Kemudahan User```
 
 Built Not Just To Assist, But To Dominate The Flow Of Data.
