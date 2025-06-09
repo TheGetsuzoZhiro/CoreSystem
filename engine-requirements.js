@@ -2,9 +2,9 @@ const major = parseInt(process.versions.node.split('.')[0], 10);
 
 if (major < 20) {
   console.error(
-    `\n❌ This package requires Node.js 20+ to run reliably.\n` +
-    `   You are using Node.js ${process.versions.node}.\n` +
-    `   Please upgrade to Node.js 20+ to proceed.\n`
+    `\n❌ Modules Ini Berjalan Di NodeJs Versi 20 Keatas\n` +
+    `   Versi Node.js Anda ${process.versions.node}.\n` +
+    `   Upgrade Ke Node.js 20+\n\n©RaditXML - GetsuzoBot\n`
   );
   process.exit(1);
 }
