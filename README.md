@@ -48,7 +48,7 @@ Built Not Just To Assist, But To Dominate The Flow Of Data.
 ### ⚙️ Core Capabilities Overview
 Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.
 
-⚔️ 1. Xploiter Suite
+*⚔️ 1. Xploiter Suite*
 ```Fitur Serangan Tingkat Lanjut Untuk Menguji Kerentanan Dan Respon Target:```
 
 ```›› Xploit : Meluncurkan Bug WhatsApp Yang Menyebabkan Delay Pada Target, Ideal Untuk Stress Test Dan Penetrasi Ringan.```
