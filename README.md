@@ -46,7 +46,7 @@ Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan K
 
 Built Not Just To Assist, But To Dominate The Flow Of Data.
 
-##⚙️ Core Capabilities Overview
+### ⚙️ Core Capabilities Overview
 Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.
 ⚔️ 1. Xploiter Suite  
 Fitur Serangan Tingkat Lanjut Untuk Menguji Kerentanan Dan Respon Target:
