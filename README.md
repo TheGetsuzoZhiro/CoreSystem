@@ -40,7 +40,7 @@ Bot Telegram [GetsuzoBot](https://t.me/GetsuzoBot)
 GetsuZoBot Adalah Ekosistem Modular Yang Dirancang Untuk Otomatisasi, Investigasi Digital, Dan Kendali Penuh Atas Data Dan Media.
 
 Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan Kamu:
-› Integrasi Eksploitasi Dan Intelijen
-› Fokus Pada Efektivitas Dan Kemudahan User
+```› Integrasi Eksploitasi Dan Intelijen```
+```› Fokus Pada Efektivitas Dan Kemudahan User```
 
 Built Not Just To Assist, But To Dominate The Flow Of Data.
