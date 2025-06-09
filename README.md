@@ -24,7 +24,7 @@
 <!-- WhatsApp Links -->
 <p>
   <a href="https://whatsapp.com/channel/0029Vajupt79mrGiw435yr2A">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen" alt="WA jeChannel"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen" alt="WA Channel"/>
   </a>
   <a href="https://wa.me/6281991410940">
     <img src="https://img.shields.io/badge/Owner-WA-green" alt="WA Owner"/>
