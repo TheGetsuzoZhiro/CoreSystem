@@ -43,10 +43,10 @@ Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan K
 
 ```› Fokus Pada Efektivitas Dan Kemudahan User```
 
-Built Not Just To Assist, But To Dominate The Flow Of Data.
+_Built Not Just To Assist, But To Dominate The Flow Of Data._
 
 ### ⚙️ Core Capabilities Overview
-Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.
+*Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.*
 
 **⚔️ 1. Xploiter Suite**
 
