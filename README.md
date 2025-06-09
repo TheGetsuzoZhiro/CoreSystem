@@ -35,9 +35,9 @@
 
 ### [GetsuzoBot](https://t.me/GetsuzoBot)
 
-GetsuZoBot Adalah Ekosistem Modular Yang Dirancang Untuk Otomatisasi, Investigasi Digital, Dan Kendali Penuh Atas Data Dan Media.
+_GetsuZoBot Adalah_ **Ekosistem Modular** _Yang Dirancang Untuk_ **Otomatisasi, Investigasi Digital,** _Dan Kendali Penuh Atas_ **Data** _Dan_ **Media.**
 
-Dengan Integrasi Sistematis Yang Stabil Dan Framework, GetsuzoBot Memungkinkan Kamu:
+_Dengan_ **Integrasi Sistematis** _Yang_ **Stabil** _Dan_ **Framework** _, GetsuzoBot Memungkinkan Kamu:_
 
 ```› Integrasi Eksploitasi Dan Intelijen```
 
