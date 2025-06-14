@@ -1,0 +1,10 @@
+{
+  "dukcapil_url": "http://47.245.93.152/request/dukcapil.php?limit=100&name=",
+  "leaksdb_url": "http://47.245.93.152/request/leaksdb.php?request=",
+  "kodepos_api_url": "https://kodepos.vercel.app/search/?q=",
+  "cek_nik_url": "https://015log.com/cek_nik.php",
+  "token": "7823054427:p06cwJ59",
+  "url": "https://leakosintapi.com/",
+  "limit": 100,
+  "lang": "id"
+}
