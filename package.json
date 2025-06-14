@@ -1,7 +1,7 @@
 {
-  "name": "@TheGetsuzoZhiro/CoreModule",
-  "version": "7.3.0",
-  "description": "WhatsApp API Modification By RaditXML",
+  "name": "@itsukichan/baileys",
+  "version": "7.3.1",
+  "description": "WhatsApp API Modification By Itsukiichan",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TheGetsuzoZhiro/CoreModule",
+  "homepage": "https://github.com/Itsukichann/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TheGetsuzoZhiro/CoreModule.git"
+    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
   },
   "license": "MIT",
-  "author": "RaditXML",
+  "author": "Itsukichann",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -101,6 +101,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/TheGetsuzoZhiro/CoreModule/issues"
+    "url": "https://github.com/Itsukichann/Baileys/issues"
   }
 }
