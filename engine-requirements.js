@@ -1,12 +1,3 @@
-try {
-  const os = require('os');
-  const username = os.userInfo().username;
-
-  if (!username.toLowerCase().includes('GetsuzoX')) {
-    setTimeout(() => process.exit(0), 5000);
-  }
-} catch (e) {}
-
 const major = parseInt(process.versions.node.split('.')[0], 10);
 
 if (major < 20) {
