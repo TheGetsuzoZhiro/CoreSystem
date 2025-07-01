@@ -12,10 +12,10 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TheGetsuzoZhiro/CoreModule",
+  "homepage": "https://github.com/TheGetsuzoZhiro/CoreSystem",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TheGetsuzoZhiro/CoreModule.git"
+    "url": "git+ssh://git@github.com/TheGetsuzoZhiro/CoreSystem.git"
   },
   "license": "MIT",
   "author": "RaditXML",
@@ -101,6 +101,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/TheGetsuzoZhiro/CoreModule/issues"
+    "url": "https://github.com/TheGetsuzoZhiro/CoreSystem/issues"
   }
 }
