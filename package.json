@@ -1,7 +1,7 @@
 {
-  "name": "@TheGetsuzoZhiro/CoreModule",
-  "version": "7.3.1",
-  "description": "WhatsApp API Modification By RaditXML",
+  "name": "@itsukichan/baileys",
+  "version": "7.3.2",
+  "description": "WhatsApp API Modification By Itsukiichan",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,19 +12,18 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TheGetsuzoZhiro/CoreSystem",
+  "homepage": "https://github.com/Itsukichann/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TheGetsuzoZhiro/CoreSystem.git"
+    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
   },
   "license": "MIT",
-  "author": "RaditXML",
+  "author": "Itsukichann",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/*",
     "WAProto/*",
-    "WASignalGroup/*.js",
     "engine-requirements.js"
   ],
   "scripts": {
@@ -34,8 +33,6 @@
     "changelog:last": "conventional-changelog -p angular -r 2",
     "changelog:preview": "conventional-changelog -p angular -u",
     "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
-    "example": "node --inspect -r ts-node/register Example/example.ts",
-    "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts",
     "lint:fix": "yarn lint --fix",
     "prepack": "tsc",
@@ -49,11 +46,12 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@cacheable/node-cache": "1.5.3", 
     "@itsukichan/eslint-config": "^1.0.0", 
-    "@itsukichan/libsignal-node": "^1.0.0", 
+    "@itsukichan/libsignal-node": "^1.0.1", 
     "async-mutex": "^0.5.0",
     "axios": "^1.6.0",
     "audio-decode": "^2.2.2", 
     "cache-manager": "^5.7.6", 
+    "fflate": "^0.8.2", 
     "lodash": "^4.17.21",
     "link-preview-js": "^3.0.14", 
     "music-metadata": "^7.12.3",
@@ -101,6 +99,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/TheGetsuzoZhiro/CoreSystem/issues"
+    "url": "https://github.com/Itsukichann/Baileys/issues"
   }
 }
